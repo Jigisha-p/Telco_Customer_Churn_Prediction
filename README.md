@@ -9,7 +9,7 @@ This project aims to develop proactive customer retention strategies for a telec
 
 Context:
 
-Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
+Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs. 
 
 Content:
 
